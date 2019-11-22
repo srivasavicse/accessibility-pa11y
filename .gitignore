@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# ignored by Sri
+.DS_Store
+Google-a11y-report.html
+example.png
